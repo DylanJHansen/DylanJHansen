@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DylanJHansen
-- 👀 I’m interested in Bash Scripting, Python, and SQL!
-- 🌱 I’m currently learning Bash, SQL.
-- 💞️ I’m looking to collaborate on Anything!
-- 📫 How to reach me bluryasf@gmail.com
+- 👀 I’m interested in Automation & CyberSecurity!
+- 🌱 I’m currently working Claude, Ansible, Kubernetes, Phython, & More!
+- 💞️ I’m looking to collaborate on Projects & Ideas!
+- 📫 How to reach me dylanhansen420@gmail.com
 
 <!---
 DylanJHansen/DylanJHansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
